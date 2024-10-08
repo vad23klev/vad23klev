@@ -4,6 +4,10 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 </h1>
 
+## Обо мне:
+
+Занимаюсь разработкой Fullstack. Разрабатываю свое расширение для VSCode.
+
 ## Мой стек:
 
 <div id="stack">
@@ -23,3 +27,11 @@
   <img id="stack-img" src="https://cdn.simpleicons.org/mercurial" title="Mercurial" alt="Mercurial" width="50px" height="50px">&nbsp
   <img id="stack-img" src="https://cdn.simpleicons.org/vscodium" title="VSCodium" alt="VSCodium" width="50px" height="50px">&nbsp
 </div>
+
+## 🔥 Top Langs:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vad23klev&layout=compact)](https://github.com/vad23klev/sync-sftp)
+
+## 📈 GitHub Activity Graph:
+
+[![Vadim github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vad23klev&theme=vue)](https://github.com/vad23klev/github-readme-activity-graph)
