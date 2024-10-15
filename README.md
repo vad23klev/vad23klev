@@ -91,11 +91,11 @@
 ### Other
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Web-Dev-For-Beginners)](https://github.com/microsoft/Web-Dev-For-Beginners)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist)](https://github.com/thedaviddias/Front-End-Checklist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=awesome)](https://github.com/sindresorhus/awesome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sdmg15&repo=Best-websites-a-programmer-should-visit)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=practical-tutorials&repo=project-based-learning)](https://github.com/practical-tutorials/project-based-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ripienaar&repo=free-for-dev)](https://github.com/ripienaar/free-for-dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusfelipeog&repo=beautiful-docs)](https://github.com/matheusfelipeog/beautiful-docs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=florinpop17&repo=app-ideas)](https://github.com/florinpop17/app-ideas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist)](https://github.com/thedaviddias/Front-End-Checklist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EbookFoundation&repo=free-programming-books)](https://github.com/EbookFoundation/free-programming-books)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=awesome)](https://github.com/sindresorhus/awesome)
