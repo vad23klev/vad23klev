@@ -41,23 +41,24 @@
 ### Algoritms
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loiane&repo=javascript-datastructures-algorithms)](https://github.com/loiane/javascript-datastructures-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doganoo&repo=PHPAlgorithms)](https://github.com/doganoo/PHPAlgorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipernb&repo=algorithms.js)](https://github.com/felipernb/algorithms.js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crizstian&repo=data-structure-and-algorithms-with-ES6)](https://github.com/crizstian/data-structure-and-algorithms-with-ES6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amejiarosario&repo=dsa.js-data-structures-algorithms-javascript)](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tayllan&repo=awesome-algorithms)](https://github.com/tayllan/awesome-algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doganoo&repo=PHPAlgorithms)](https://github.com/doganoo/PHPAlgorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crizstian&repo=data-structure-and-algorithms-with-ES6)](https://github.com/crizstian/data-structure-and-algorithms-with-ES6)
+
 
 ### Interview
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangshun&repo=front-end-interview-handbook)](https://github.com/yangshun/front-end-interview-handbook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YauhenKavalchuk&repo=interview-questions)](https://github.com/YauhenKavalchuk/interview-questions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devinterview-io&repo=vue-interview-questions)](https://github.com/Devinterview-io/vue-interview-questions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudheerj&repo=vuejs-interview-questions)](https://github.com/sudheerj/vuejs-interview-questions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YauhenKavalchuk&repo=interview-questions)](https://github.com/YauhenKavalchuk/interview-questions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magisters-cc&repo=vuejs-interview-questions-russian)](https://github.com/magisters-cc/vuejs-interview-questions-russian)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lydiahallie&repo=javascript-questions)](https://github.com/lydiahallie/javascript-questions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwasham&repo=coding-interview-university)](https://github.com/jwasham/coding-interview-university)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangshun&repo=tech-interview-handbook)](https://github.com/yangshun/tech-interview-handbook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudheerj&repo=vuejs-interview-questions)](https://github.com/sudheerj/vuejs-interview-questions)
 
 ### RoadMaps
 
