@@ -76,10 +76,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bespoyasov&repo=refactor-like-a-superhero)](https://github.com/bespoyasov/refactor-like-a-superhero)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goldbergyoni&repo=nodebestpractices)](https://github.com/goldbergyoni/nodebestpractices)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solarrust&repo=hacker-laws)](https://github.com/solarrust/hacker-laws)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbilly&repo=awesome-security)](https://github.com/sbilly/awesome-security)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheJambo&repo=awesome-testing)](https://github.com/TheJambo/awesome-testing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pingcap&repo=awesome-database-learning)](https://github.com/pingcap/awesome-database-learning)
 
 ### JavaScript
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sorrycc&repo=awesome-javascript)](https://github.com/sorrycc/awesome-javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzharii&repo=awesome-typescript)](https://github.com/dzharii/awesome-typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=awesome-vue)](https://github.com/vuejs/awesome-vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbeaudru&repo=modern-js-cheatsheet)](https://github.com/mbeaudru/modern-js-cheatsheet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wesbos&repo=JavaScript30)](https://github.com/wesbos/JavaScript30)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chalarangelo&repo=30-seconds-of-code)](https://github.com/Chalarangelo/30-seconds-of-code)
@@ -91,6 +96,7 @@
 ### Other
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Web-Dev-For-Beginners)](https://github.com/microsoft/Web-Dev-For-Beginners)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadoz&repo=awesome-php)](https://github.com/ziadoz/awesome-php)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=awesome)](https://github.com/sindresorhus/awesome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sdmg15&repo=Best-websites-a-programmer-should-visit)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=practical-tutorials&repo=project-based-learning)](https://github.com/practical-tutorials/project-based-learning)
@@ -99,3 +105,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=florinpop17&repo=app-ideas)](https://github.com/florinpop17/app-ideas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist)](https://github.com/thedaviddias/Front-End-Checklist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EbookFoundation&repo=free-programming-books)](https://github.com/EbookFoundation/free-programming-books)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avelino&repo=awesome-go)](https://github.com/avelino/awesome-go)
